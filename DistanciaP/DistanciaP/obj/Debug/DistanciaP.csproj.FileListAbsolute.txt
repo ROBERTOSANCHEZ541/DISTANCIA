@@ -1,0 +1,10 @@
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\bin\Debug\DistanciaP.exe.config
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\bin\Debug\DistanciaP.exe
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\bin\Debug\DistanciaP.pdb
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.csprojAssemblyReference.cache
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.Form1.resources
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.Properties.Resources.resources
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.csproj.GenerateResource.cache
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.csproj.CoreCompileInputs.cache
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.exe
+C:\Users\jeff6\Downloads\FIME\8vo\DistanciaP\DistanciaP\obj\Debug\DistanciaP.pdb

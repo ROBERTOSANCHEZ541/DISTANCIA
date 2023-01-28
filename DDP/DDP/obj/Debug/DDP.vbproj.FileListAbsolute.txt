@@ -1,0 +1,20 @@
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\bin\Debug\DDP.exe.config
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\bin\Debug\DDP.exe
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\bin\Debug\DDP.pdb
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\bin\Debug\DDP.xml
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.vbprojAssemblyReference.cache
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.Form1.resources
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.Resources.resources
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.vbproj.GenerateResource.cache
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.vbproj.CoreCompileInputs.cache
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.exe
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.xml
+C:\Users\jeff6\AppData\Local\Temporary Projects\DDP\obj\Debug\DDP.pdb
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.vbprojAssemblyReference.cache
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.Form1.resources
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.Resources.resources
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.vbproj.GenerateResource.cache
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.vbproj.CoreCompileInputs.cache
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.exe
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.xml
+C:\Users\jeff6\Downloads\FIME\8vo\DDP\DDP\obj\Debug\DDP.pdb
